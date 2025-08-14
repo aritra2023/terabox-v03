@@ -75,4 +75,4 @@ COOKIE = {
 # COOKIE FOR AUTHENTICATION (get from chrome dev tools) ex: "PANWEB=1; csrfToken=; lang=en; TSID=; __bid_n=; _ga=; __stripe_mid=; ndus=; browserid==; ndut_fmt=; _ga_06ZNKL8C2E=" (don't use this)
 
 # List of bot admins
-ADMINS = [803003146]
+ADMINS = [6490401448]
